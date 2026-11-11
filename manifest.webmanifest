@@ -1,0 +1,11 @@
+{
+ "name":"Football Career Hub",
+ "short_name":"Career Hub",
+ "start_url":"./",
+ "scope":"./",
+ "display":"standalone",
+ "background_color":"#EAF7FF",
+ "theme_color":"#1287d3",
+ "description":"自分だけのサッカーキャリア記録アプリ。スマホで写真・試合・選手・SNSを管理。",
+ "icons":[{"src":"./icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},{"src":"./icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}]
+}
